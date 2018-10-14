@@ -1,0 +1,18 @@
+{
+  "short_name": "Каталог франшиз",
+  "name": "Франшизы. Успешный бизнес.",
+  "icons": [
+    {
+      "src": "franchise.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    }                               
+  ],
+  "prefer_related_applications": true,  
+  "related_applications": [
+    {
+        "platform": "play",
+        "id": "ru.beboss.franchising"
+    }
+  ]  
+}
